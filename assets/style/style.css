@@ -1,0 +1,45 @@
+.container-header {
+    background-color: rgb(81, 78, 78);
+    border-top-left-radius: 10px;
+    flex: 0 0 content;
+    margin-bottom: 10px;
+}
+
+.colNav {
+    padding-top: 20px;
+
+}
+
+.nav-link {
+    font-size: 15px;
+    color: white;
+}
+
+.colNav p {
+    font-size: 15px;
+    color: white;
+}
+
+.rowh1 {
+
+    height: 50vh;
+    background-color: rgb(95, 89, 89);
+    color: white;
+}
+
+.container-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(95, 89, 89);
+
+
+
+}
+
+.card-title {
+    color: black;
+}
+
+.card-text {
+    color: black;
+}
